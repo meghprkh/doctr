@@ -31,4 +31,4 @@ See [https://github.com/meetparikh7/doctr-backend](https://github.com/meetparikh
 # Authors
 - [Megh Parikh](https://github.com/meghprkh/) *Full Stack developer*
 - [Meet Parikh](https://github.com/meetparikh7/) *Backend developer*
-- Siddharth Shah *Special Features developer*
+- [Siddharth Shah](https://github.com/SidStark99/) *Special Features developer*
