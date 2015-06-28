@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <title>Doctr</title>
+ <g>
+  <title>Layer 1</title>
+  <rect ry="50" rx="50" id="svg_2" height="448" width="448" y="32" x="32" stroke-opacity="0" stroke-width="0" stroke="#000000" fill="#f44336"/>
+  <rect id="svg_4" height="320" width="96" y="96" x="208" stroke-opacity="0" stroke-width="0" stroke="#000000" fill="#ffffff"/>
+  <rect id="svg_5" height="96" width="320" y="208" x="96" stroke-opacity="0" stroke-width="0" stroke="#000000" fill="#ffffff"/>
+ </g>
+</svg>

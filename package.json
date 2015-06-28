@@ -1,0 +1,29 @@
+{
+  "name": "template2",
+  "version": "0.0.0",
+  "description": "A react template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "browserify js/main.js -o js/bundle.js",
+    "start": "watchify js/main.js -o js/bundle.js"
+  },
+  "author": "Megh Parikh",
+  "license": "MPL",
+  "dependencies": {
+    "react": "~0.13.2",
+    "qwest": "~1.7.0",
+    "react-router": "~0.13.3",
+    "react-datepicker": "~0.8.0"
+  },
+  "browserify": {
+    "transform": [
+      "babelify"
+    ]
+  },
+  "devDependencies": {
+    "babelify": "~6.1.2",
+    "browserify": "~10.2.4",
+    "watchify": "~3.2.3"
+  }
+}
